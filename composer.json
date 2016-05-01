@@ -1,0 +1,12 @@
+{
+  "name": "dlai286/bmi",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dylan Lai",
+      "email": "dylan.lai92@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
