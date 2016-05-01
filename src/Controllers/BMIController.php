@@ -10,6 +10,7 @@ class BMIController extends Controller
 
     public function index(Request $request)
     {
+        $bmi = 0;
         if ($request->has('weight') && $request->has('height')) {
             $weight = $request->get('weight');
             $height = $request->get('height');
